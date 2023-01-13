@@ -1,7 +1,4 @@
----
-permalink: /robots.txt
----
 User-agent: *
 Disallow:
 
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+Sitemap: https://jeabew.github.io/DAKODA-webpage//sitemap.xml
